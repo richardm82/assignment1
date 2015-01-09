@@ -5,3 +5,5 @@ I am currently in Puerto Escondido, Mexico.
 PROGRAMMING BIO:
 
 I love programming and cannot wait to make interactive web pages!
+
+My favorite project has been making a blog for our travels.
