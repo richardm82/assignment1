@@ -2,7 +2,8 @@ I am a Navy submarine veteran and am currently working as a Technical Support En
 
 I am currently in Puerto Escondido, Mexico.
 
-PROGRAMMING BIO:
+PROGRAMMING BIO
+===============
 
 I love programming and cannot wait to make interactive web pages!
 
